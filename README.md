@@ -1,14 +1,12 @@
 # False Discovery Rates in Biological Networks
 
-This repository provides the data and an implementation of the knock-off method described in the paper *False Discovery Rates in Biological Networks* by Lu Yu, Tobias Kaufmann and Johannes Lederer.
+This repository provides the data and an implementation of the method described in the paper *False Discovery Rates in Biological Networks* by Lu Yu, Tobias Kaufmann and Johannes Lederer.
 
 ## Usage
-The file `Knockoff.R` contains a function `GraphEstimation` to estimate a connectivity graph by using the knockoffs.
-
+The file `Knockoff.R` contains a function `GraphEstimation` to estimate a connectivity graph using the KO or KO+ method. Our paper contains detailed descriptions of these methods.
 
 ## Simulation
-We provide an example code `Simulation.R` for the simulation studies as described in the paper. 
-
+We provide an example code `Simulation.R` for the comparison of the estimators' accuracy in terms of power and FDR among KO, graphical lasso, neighborhood selection with the “and-rule” and the “or-rule”, thresholding the correlation matrix, and thresholding the partial correlation matrix.
 
 ## Real Data Analyses
 
