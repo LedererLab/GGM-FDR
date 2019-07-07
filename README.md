@@ -23,6 +23,6 @@ The program for Atlantic Amphibians Abundance Analysis can be found under `RealD
 ## Repository Authors
 - Lu Yu — Ph.D. candidate in Statistics, University of Toronto 
 
-- Tobias Kaufmann — 
+- Tobias Kaufmann — Neuroscientist at NORMENT, University of Oslo and Oslo University Hospital
 
 - Johannes Lederer — Professor in Mathematical Statistics, Ruhr-University Bochum
