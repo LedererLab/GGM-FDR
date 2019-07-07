@@ -6,7 +6,7 @@ This repository provides the data and implementation of the methods described in
 The file `Knockoff.R` contains a function `GraphEstimation` to estimate a connectivity graph using the KO or KO+ method. Our paper contains detailed descriptions of these methods.
 
 ## Simulation
-We provide an example code `Simulation.R` for the comparison of the estimators' accuracy in terms of power and FDR among KO, graphical lasso, neighborhood selection with the “and-rule” and the “or-rule”, thresholding the correlation matrix, and thresholding the partial correlation matrix.
+We provide an example code `Simulation.R` for the comparison of the estimators' accuracy in terms of power and FDR among KO, graphical lasso, neighborhood selection with the “and-rule” and the “or-rule”, thresholding the correlation matrix, and thresholding the partial correlation matrix. This program requires `R` 3.4.4 or older version of `R`.
 
 ## Real Data Analyses
 
