@@ -17,7 +17,7 @@ The raw fMRI data was collected and provided by Dr. Dantao Peng, Dr. Yanlei Mu, 
 The data preprocessing was conducted by Dr. Min Zhang.
 
 ###### Human Microbiome Analysis
-The corresponding dataset is downloaded from [American Gut Project](http://humanfoodproject.com/americangut/), and it can be found under `RealDataAnalysis/Data/AmericanGut/ag-cleaned_L2.txt`. The program for Human Microbiome Analysis is included, and can be found in `RealDataAnalysis/AmericanGut.R`.
+The corresponding processed dataset is downloaded from [American Gut Project](http://humanfoodproject.com/americangut/), and it can be found under `RealDataAnalysis/Data/AmericanGut/ag-cleaned_L2.txt`. We refer to [American Gut data repository](https://github.com/biocore/American-Gut) for more details about the data proprocessing. The program for Human Microbiome Analysis is included, and can be found in `RealDataAnalysis/AmericanGut.R`.
 
 ###### Atlantic Amphibians Abundance Analysis
 The corresponding data sets `ATLANTIC_AMPHIBIANS_sites.csv` and `ATLANTIC_AMPHIBIANS_species.csv` are taken from [ATLANTIC AMPHIBIANS: a data set of amphibian communities from the Atlantic Forests of South America](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2392). The data is described in [(Vancine et al., 2018)](https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fecy.2392&file=ecy2392-sup-0002-MetadataS1.pdf). We refer to [ATLANTIC AMPHIBIANS data repository](https://github.com/mauriciovancine/ATLANTIC-AMPHIBIANS/tree/v1.0.0) for more details about the data.
